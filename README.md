@@ -30,7 +30,7 @@ This is a fun and interactive **Simon Says Game** built using **HTML, CSS, and J
 ---
 
 ## 📸 Screenshot
-<img width="711" height="843" alt="image" src="https://github.com/user-attachments/assets/7a6ef5b4-3a5b-43a5-b010-da075b0297e7" />
+<img width="1592" height="853" alt="image" src="https://github.com/user-attachments/assets/5ef72bd1-6065-4fed-84b9-4a4a6c8452a9" />
 
 ---
 
